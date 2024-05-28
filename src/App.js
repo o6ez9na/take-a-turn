@@ -10,7 +10,8 @@ function App() {
       <Box
       backgroundColor={'#2f3231'}      
       height={'100vh'}
-      color={'#82807a'}>
+      color={'#82807a'}
+      >
         <h1>Hello World</h1>
       </Box>
     </ChakraProvider>
